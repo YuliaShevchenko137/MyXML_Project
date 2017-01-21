@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<class>
+    <student id = "1">
+        <fio>Petrov S.S</fio>
+        <mark>5.0</mark>
+    </student>
+    <student id = "2">
+        <fio>Ivanov S.S</fio>
+        <mark>4.5</mark>
+    </student>
+</class>
